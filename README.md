@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Welcome,%20to%20my%20profile)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Welcome%20to%20my%20profile)
 
 ## Introduction ...
-안녕하세요. 컴퓨터공학과 2학년 대학생입니다. 
+안녕하세요. 
+- 컴퓨터공학과 2학년 대학생입니다. 
 
-### 📫 Links ...
+### 📫 Contact me ...
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:private102901@gmail.com)](private102901@gmail.com)
 
 
@@ -13,11 +14,13 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-## 👀 Github Stats
+
+## 👀 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEM00Nju&show_icons=true&theme=graywhite&hide_title=true)
-깃허브 stats
+- 깃허브
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=000n)](https://solved.ac/000n/)
-백준 티어
+- 백준
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
